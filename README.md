@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 - future
 -->
-a
 
 
-
-
-
-sdfgsdgsdbg
-
-
-dsbsdbsdab
-
-asvbasgadba
+- 🔭 I’m currently working on ... Mobile Automation for IOS and Android Platform using appium 
+- 🌱 I’m currently learning ... Java 
